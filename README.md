@@ -14,3 +14,5 @@ The libraries used are:
 -Matplotlib
 
 -Tensorflow
+
+If you are executing this code locally then you can simply provide the path of image on your machine, if you're using the online notebook then you can upload all images in your google drive and provide it's path after validating the google drive with your jupyter notebook
